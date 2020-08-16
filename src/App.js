@@ -6,8 +6,8 @@ function App() {
   return (
     <div>
     <p> 안녕하세요! </p>
-    <Button Primary> hi </Button>
-    <Progress percent = {33} indicating/>
+    <button> hi </button>
+    <Button > hi하이요 </Button>
     </div>
   );
 }
